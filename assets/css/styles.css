@@ -1,0 +1,46 @@
+html,body{
+    margin: 0px;
+    background-color: #2f4f30;
+    color: whitesmoke;
+}
+
+.titulo{
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.carta{
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computadora-cartas, #jugador-cartas{
+    height: 240px;
+}
+
+
+
+.pie{
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    padding: 10px;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+a{
+    color: yellow;
+}
+
+a:hover{
+    font-size: 15px;
+    border-radius: 10%;
+    background-color: #bb71462f;
+    color: orangered;
+}
